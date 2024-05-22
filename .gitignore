@@ -1,17 +1,7 @@
 .DS_Store
 *.psd
-*.jpg
-*.jpeg
 *thumb*
 *.icloud
 *.sketch
 Fonts/*
 Reference/*
-Movies/*
-Shows/*
-Artists/*
-Albums/*
-Albums
-Artists
-Movies
-Shows
